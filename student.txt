@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 student name : Chandana
 Department :cse
+=======
+student Name: Chandana.Cherukuri
+Department; AIML
+>>>>>>> conflict-branch
