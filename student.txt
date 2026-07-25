@@ -1,1 +1,2 @@
-Student Details 
+student Name: Chandana.Cherukuri
+Department; AIML
